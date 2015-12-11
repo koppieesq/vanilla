@@ -11,4 +11,4 @@ published: true
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
 
-Don't tell me what to do.
+I wine them and dine them but I don't let them tell me what to do.
