@@ -14,4 +14,4 @@ published: true
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
 
-I wine them and dine them but I don't let them tell me what to do.  I DON'T.  Let them tell me.  What to do.
+I wine them and dine them but I don't let them tell me what to do.  I DON'T.  Let them TELL me.  What to DO.
